@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Echooling-Project/static/css/main.81325d13.css",
+    "main.js": "/Echooling-Project/static/js/main.f46735eb.js",
+    "index.html": "/Echooling-Project/index.html",
+    "main.81325d13.css.map": "/Echooling-Project/static/css/main.81325d13.css.map",
+    "main.f46735eb.js.map": "/Echooling-Project/static/js/main.f46735eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81325d13.css",
+    "static/js/main.f46735eb.js"
+  ]
+}
