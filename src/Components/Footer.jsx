@@ -18,12 +18,12 @@ function Footer() {
        <div className='footer_top2'>
         <h2>About us</h2> 
        <div className='footer_menu'>  <ul>
-            <li><a href="/">About</a></li>
-            <li><a href="/"> Courses </a></li>
-            <li><a href="/">Events</a> </li>
-            <li><a href="/">Carrer</a></li>
-            <li><a href="/">Become a Teacher</a> </li>
-            <li><a href="/">Contact</a> </li>
+            <li><a href="/Echooling-Project">About</a></li>
+            <li><a href="/Echooling-Project"> Courses </a></li>
+            <li><a href="/Echooling-Project">Events</a> </li>
+            <li><a href="/Echooling-Project">Carrer</a></li>
+            <li><a href="/Echooling-Project">Become a Teacher</a> </li>
+            <li><a href="/Echooling-Project">Contact</a> </li>
         </ul>
         </div>
        </div>
@@ -31,12 +31,12 @@ function Footer() {
         <h2>Useful Links</h2>
         <div className='footer_menu'>  
         <ul>
-            <li><a href="/">Browse Library</a></li>
-            <li><a href="/">Library </a></li>
-            <li><a href="/">Partners</a> </li>
-            <li><a href="/">News & Blog</a></li>
-            <li><a href="/">FAQ</a> </li>
-            <li><a href="/">Tutorials</a> </li>
+            <li><a href="/Echooling-Project">Browse Library</a></li>
+            <li><a href="/Echooling-Project">Library </a></li>
+            <li><a href="/Echooling-Project">Partners</a> </li>
+            <li><a href="/Echooling-Project">News & Blog</a></li>
+            <li><a href="/Echooling-Project">FAQ</a> </li>
+            <li><a href="/Echooling-Project">Tutorials</a> </li>
         </ul>
         </div>
        </div>
@@ -44,7 +44,7 @@ function Footer() {
         <h2>Newsletter</h2>
         <div>Get the latest Echooling news <br />
            delivered to you inbox</div>
-           <form action="/">
+           <form action="/Echooling-Project">
            <input type="email" placeholder='Enter Your Mail' required />
            <button><ArrowForwardIcon /></button>
            </form>
@@ -54,14 +54,14 @@ function Footer() {
       <div className='footer_bottom'>
         <div className="footer_bottomleft">
         
-      <CopyrightIcon />2022 <a href="/">Echooling.</a>All Rights Reserved
+      <CopyrightIcon />2022 <a href="/Echooling-Project">Echooling.</a>All Rights Reserved
         </div>
         <div className="footer_bottomright">
           <ul className='links'>
             <li>Follow us</li>
-            <li><a href="/"><span><FacebookRoundedIcon /></span></a></li>
-            <li><a href="/"><span><TwitterIcon /></span></a></li>
-            <li><a href="/"><span><LinkedInIcon /></span></a></li>
+            <li><a href="/Echooling-Project"><span><FacebookRoundedIcon /></span></a></li>
+            <li><a href="/Echooling-Project"><span><TwitterIcon /></span></a></li>
+            <li><a href="/Echooling-Project"><span><LinkedInIcon /></span></a></li>
           </ul>
         </div>
       </div>

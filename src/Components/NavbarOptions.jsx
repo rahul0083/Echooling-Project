@@ -11,12 +11,12 @@ function NavbarOptions({title,option1,option2,option3,option4,option5,option6}) 
     </div>
      
     <div className="dropdown-content">
-     <a href="/">{option1} </a>
-     <a href="/">{option2}</a>
-     <a href="/">{option3}</a>
-     <a href="/">{option4}</a>
-     <a href="/">{option5}</a>
-     <a href="/">{option6}</a>
+     <a href="/Echooling-Project">{option1} </a>
+     <a href="/Echooling-Project">{option2}</a>
+     <a href="/Echooling-Project">{option3}</a>
+     <a href="/Echooling-Project">{option4}</a>
+     <a href="/Echooling-Project">{option5}</a>
+     <a href="/Echooling-Project">{option6}</a>
      
     </div>
   </div>

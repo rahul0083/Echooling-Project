@@ -10,7 +10,7 @@ function Content() {
         <div className='content_top'>
       <p >Course
       <ul>
-        <li> <a href="/">Home</a> </li>
+        <li> <a href="/Echooling-Project">Home</a> </li>
         <li>Course</li>
       </ul>
       </p>
@@ -80,9 +80,9 @@ function Content() {
       </div>
       <div className='content_bottom_bottom'>
       <ul className='links'>
-            <li><a href="/">1</a></li>
-            <li><a href="/">2</a></li>
-            <li><a href="/"><span><ArrowForwardIcon /></span></a></li>
+            <li><a href="/Echooling-Project">1</a></li>
+            <li><a href="/Echooling-Project">2</a></li>
+            <li><a href="/Echooling-Project"><span><ArrowForwardIcon /></span></a></li>
           </ul>
       </div>
       </div>

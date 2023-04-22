@@ -17,7 +17,7 @@ function CardsCourses({imageUrl,description}) {
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div" >
-        <a href="/">{description}</a>
+        <a href="/Echooling-Project">{description}</a>
         </Typography>
         <Typography variant="body2" color="text.secondary">
          
